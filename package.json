@@ -1,0 +1,27 @@
+{
+  "name": "unicornpowertest",
+  "version": "1.0.0",
+  "description": "",
+  "private": false,
+  "main": "./www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ihor-Fon1us/UnicornPowerTest.git"
+  },
+  "author": "Ihor Rakytin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ihor-Fon1us/UnicornPowerTest/issues"
+  },
+  "homepage": "https://github.com/Ihor-Fon1us/UnicornPowerTest#readme"
+}
